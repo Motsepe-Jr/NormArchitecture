@@ -1,4 +1,4 @@
-# GPT-2 Reimplementation with "NORM" Architecture Components
+# GPT-2 Reimplementation with "NORM" Architecture
 
 ## Overview
 
