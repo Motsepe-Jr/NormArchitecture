@@ -52,7 +52,7 @@ python train_gpt2.py
 ```
 
 References
-- [Ohara](https://github.com/joey00072/ohara/blob/master/ohara/swa.py): Thanks to joey
+- [Ohara](https://github.com/joey00072/ohara/blob/master/ohara/swa.py): Thanks to  🖤 joey and Andrej Karpathy 🖤
 
 - Ainslie, J., Shazeer, N., Davis, A., Stern, M., Le, Q. V., & Petrov, S. (2023). GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints. arXiv preprint arXiv:2305.13245.
 
